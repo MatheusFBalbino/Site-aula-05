@@ -1,0 +1,22 @@
+* {
+  background-color: #202123;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 5px 0px 5px 5px;
+  font-family: calibri;
+  color: white;
+}
+a {
+  color: lightblue;
+}
+.imagens {
+  width: 500px;
+  border-radius: 50px;
+}
+p {
+  max-width: 500px;
+}
+.videoembutido {
+  width: 800px;
+  height: 450px;
+}
